@@ -23,4 +23,4 @@ Finally, we will dig into a set of the most up-to-date data science Python packa
 
 ## Course Goal
 Eventually, at the end of this module students are expected to be able to implement all the stages of a typical machine learning pipeline: 
-from collecting data to building predictive models for solving either a classification or a regression problem.
+from collecting data to building predictive models for solving either a regression or a classification problem.
