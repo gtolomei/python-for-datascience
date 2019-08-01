@@ -12,12 +12,7 @@ This repository contains lecture materials (in the form of Jupyter Notebook and 
 
 ## Course Syllabus
 
-<p>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-</p>
 
-## Prova anchor
+## Course Goal
+
+## Class Schedule
