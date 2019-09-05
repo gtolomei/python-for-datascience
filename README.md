@@ -1,6 +1,6 @@
 # Python Programming for Data Science
 
-## General Info
+## General Description
 
 Welcome to Python Programming for Data Science!
 
