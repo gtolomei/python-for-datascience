@@ -59,4 +59,4 @@ Finally, we will dig into a set of the most up-to-date data science Python packa
 | Lecture 14 | The Classification Problem: Example (Part I)  | [Notebook](./lectures/notebooks/Lecture_13_The_Classification_Problem_Example_(Part_1).ipynb)|
 | Lecture 15 | The Classification Problem: Example (Part II) | [Notebook](./lectures/notebooks/Lecture_13_The_Classification_Problem_Example_(Part_2).ipynb)|
 | Lecture 16 | Logistic Regression Demystified (seminar)     | [Slides](./lectures/slides/Lecture_14_Deep_Dive_On_Logistic_Regression.pdf)                |
-| Lecture 17 | Exam simulation                               | [Notebook](./lectures/notebooks/Lecture_00_Preliminaries.ipynb), [Slides](./lectures/slides/Lecture_00_Preliminaries.pdf)               |
+<!--| Lecture 17 | Exam simulation                               | [Notebook](./lectures/notebooks/Lecture_00_Preliminaries.ipynb), [Slides](./lectures/slides/Lecture_00_Preliminaries.pdf)               |-->
